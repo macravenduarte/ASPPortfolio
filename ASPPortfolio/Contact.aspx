@@ -1,4 +1,15 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="ASPPortfolio.Contact" %>
+﻿
+<%--
+    File name: Contact.aspx
+    Author's name: Marco Duarte Student # 100006379
+    Web Site name: http://aspporotfolio.azurewebsites.net/
+    Description:  This page will render the CONTACT ME section from the contacts folder of the web portfolio site.
+                    It will include a navigation header and footer a form that will allow a user to send me an email.
+                    For confirmation purposes there is also a captcha box to avoid spamming
+ 
+--%>
+
+<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="ASPPortfolio.Contact" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="container">
@@ -26,7 +37,7 @@
                 </div>          
             </div>
             <!-- Contact Information Section -->
-            <div class="col-md-6">
+            <div id="contactForm" class="col-md-6">
                 <!-- First Name -->
                 <div class="form-group">
                     <label class="control-label" for="form-group-input">First Name</label>
@@ -65,6 +76,24 @@
                 </div>
 
             </div>
+            <!-- End of Contact Information Section -->
+
+            <!-- have a link to your github repo -->
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <p>Check Out My GitHub Repo!</p>
+                    </div>
+                    <div class="col-sm-3">
+                        <a href="http://github.com/macravenduarte/">
+                            <img src="images/Github/Octocat.png"
+                                title="Link To Marco's Github Repository"
+                                width="75" length="75" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- End of github repo -->
         </div>
     </div>
 </asp:Content>
