@@ -11,6 +11,12 @@ using System.Net.Http;
 using System.Net.Mail;
 using SendGrid;
 
+/**
+ * @File: Contact.aspx.cs
+ * @Author: Marco Duarte
+ * @Date: June 8 2016
+ * version 0.0.1 - added SendGrid to the SendButton_Click event
+ */
 namespace ASPPortfolio
 {
     public partial class Contact : Page

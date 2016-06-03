@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace ASPPortfolio
 {
-    public partial class Contact1 : System.Web.UI.MasterPage
+    public partial class Contact1 : MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {
