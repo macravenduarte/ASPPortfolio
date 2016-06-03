@@ -1,4 +1,12 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ASPPortfolio.Site" %>
+﻿<%-- 
+    @File: AboutMe.aspx
+    @Author: Marco Duarte Student # 100006379
+    @WebSiteName: http://aspporotfolio.azurewebsites.net/
+    @Description:  This file is Site Master Page for the Web Portfolio Assignment. 
+                    It will include a navigation in the header.
+--%>
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ASPPortfolio.Site" %>
 <%@ Register Src="~/User_Controls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>
 
 <!DOCTYPE html>

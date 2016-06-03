@@ -6,13 +6,14 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 
 /**
- * @author: Marco Duarte
- * @date: May 29 2016
+ * @File: NavBar.ascx.cs
+ * @Author: Marco Duarte
+ * @Date: June 8 2016
  * version 0.0.1 - added the SetActivePage method
  */
 namespace ASPPortfolio
 {
-    public partial class Navbar : System.Web.UI.UserControl
+    public partial class Navbar : UserControl
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -20,7 +21,7 @@ namespace ASPPortfolio
         }
 
         /**
-         * This method adds a css class of "active" to listr items
+         * This method adds a css class of "active" to listed items
          * related to navigation links on each page
          * 
          * @method SetActivePage
@@ -32,6 +33,15 @@ namespace ASPPortfolio
             {
                 case "Home Page":
                     home.Attributes.Add("class", "active");
+                    break;
+                case "About Me":
+                    aboutMe.Attributes.Add("class", "active");
+                    break;
+                case "Services":
+                    services.Attributes.Add("class", "active");
+                    break;
+                case "Projects":
+                    projects.Attributes.Add("class", "active");
                     break;
                 case "Contact":
                     contact.Attributes.Add("class", "active");

@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ASPPortfolio
-{
-
-
-    public partial class Contact
-    {
-
+namespace ASPPortfolio {
+    
+    
+    public partial class Contact {
+        
         /// <summary>
         /// FirstNameTextBox control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox FirstNameTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator1 control.
         /// </summary>
@@ -31,7 +29,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
-
+        
         /// <summary>
         /// LastNameTextBox control.
         /// </summary>
@@ -40,7 +38,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox LastNameTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator2 control.
         /// </summary>
@@ -49,7 +47,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
-
+        
         /// <summary>
         /// EmailTextBox control.
         /// </summary>
@@ -58,7 +56,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox EmailTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator3 control.
         /// </summary>
@@ -67,16 +65,16 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
-
+        
         /// <summary>
-        /// ContactNumberTextBox control.
+        /// SubjectTitleTextBox control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox ContactNumberTextBox;
-
+        protected global::System.Web.UI.WebControls.TextBox SubjectTitleTextBox;
+        
         /// <summary>
         /// RequiredFieldValidator4 control.
         /// </summary>
@@ -85,7 +83,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator4;
-
+        
         /// <summary>
         /// MessageTextBox control.
         /// </summary>
@@ -94,7 +92,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox MessageTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator5 control.
         /// </summary>
@@ -103,7 +101,7 @@ namespace ASPPortfolio
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator5;
-
+        
         /// <summary>
         /// SendButton control.
         /// </summary>

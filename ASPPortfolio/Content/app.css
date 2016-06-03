@@ -1,1 +1,32 @@
-﻿/* Custom CSS Styles Go Here*/
+﻿/*This style sheet will have a global text style */
+html {
+    background-color: transparent;
+}
+
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: transparent;
+}
+
+main {
+    background-color: #698EFF; /* Light Blue*/
+}
+
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center !important;
+}
+
+.container-fluid {
+    text-align: center !important;
+}
+.row {
+    justify-content: center;
+}
+/*to adjust the glyph size, treat it as a font.
+Source: http://www.w3schools.com/bootstrap/bootstrap_glyphicons.asp*/
+.logo {
+    font-size: 100px;
+    color: white;
+}

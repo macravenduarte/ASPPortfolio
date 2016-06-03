@@ -1,8 +1,9 @@
 ﻿<%-- 
-    File name: AboutMe.aspx
-    Author's name: Marco Duarte Student # 100006379
-    Web Site name: http://aspporotfolio.azurewebsites.net/
-    Description:  This page will render the SERVICES page of the web portfolio site. 
+    @File: Services.aspx
+    @Author: Marco Duarte Student # 100006379
+    @Date: June 8 2016
+    @WebSite: http://aspporotfolio.azurewebsites.net/
+    @Description:  This page will render the SERVICES page of the web portfolio site. 
                     It will include a navigation header and footer,
                     and possibly some pictures that represent the languages.
 --%>

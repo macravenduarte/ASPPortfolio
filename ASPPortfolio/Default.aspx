@@ -1,8 +1,9 @@
 ﻿<%-- 
-    File name: AboutMe.aspx
-    Author's name: Marco Duarte Student # 100006379
-    Web Site name: http://aspporotfolio.azurewebsites.net/
-    Description:  This file is for the Home page of the Web Portfolio Assignment. 
+    @File: Default.aspx
+    @Author: Marco Duarte Student # 100006379
+    @Date: June 8 2016
+    @WebSiteName: http://aspporotfolio.azurewebsites.net/
+    @Description:  This file is for the Default Home page of the Web Portfolio Assignment. 
                     It will include a navigation in the header and
                     footer, and a background picture    
 --%>
@@ -14,7 +15,7 @@
     </bs3:Jumbotron>
 
         <div class="row">
-            <div class="col-md-2">
+            <div class="col-md-offset-4 col-md-8">
                 <p>Welcome! This is a demo site made for Advanced Web Programming<br>
                     The purpose is to demonstrate basic use of:</p>
             </div>
