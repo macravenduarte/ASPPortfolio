@@ -23,7 +23,7 @@
         <!-- Logos -->
             <!--Twitter Bootstrap -->
             <div class="col-md-2">
-                <h4 id="img-title">Twitter Bootstrap</h4>
+                <h4 id="img-title1">Twitter Bootstrap</h4>
                 <img class="image-responsive"
                      src="images/bootstrap_html_css.png"
                      title="Twitter Bootstrap, HTML5, CSS3"
@@ -33,7 +33,7 @@
         <div class="row">
             <!--Node.js-->
             <div class="col-md-2">
-                <h4 id="img-title">Node.js</h4>
+                <h4 id="img-title2">Node.js</h4>
                 <img class="image-responsive"
                      src="images/nodejs-logo.png"
                      title="Node.js"
@@ -41,7 +41,7 @@
             </div>
             <!--MongoDB-->
             <div class="col-md-1">
-                <h4 id="img-title">MongoDB</h4>
+                <h4 id="img-title3">MongoDB</h4>
                 <img class="image-responsive"
                      src="images/mongodb-logo.png"
                      title="MongoDB"

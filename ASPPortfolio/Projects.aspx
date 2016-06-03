@@ -16,12 +16,12 @@
     <!-- have a link to your github repo -->
         <div class="container-fluid">
             <div class="row">
-                <div class="col-sm-2">
+                <div class="col-md-offset-4 col-md-8">
                     <p>Check Out My GitHub Repo!</p>
                 </div>
                 <div class="col-sm-3">
                     <a href="http://github.com/macravenduarte/">
-                        <img src="Images/Octocat.png" title="Link To Marco's Github Repository" width="75" length="75"/>
+                        <img src="Content/Images/Octocat.png" title="Link To Marco's Github Repository" width="75" length="75"/>
                     </a>
                 </div>
             </div>
