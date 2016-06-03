@@ -10,10 +10,8 @@
 namespace ASPPortfolio
 {
 
-
     public partial class Default
     {
-
         /// <summary>
         /// Jumbotron control.
         /// </summary>

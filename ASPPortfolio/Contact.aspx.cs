@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 // using SendGrid's C# Library - https://github.com/sendgrid/sendgrid-csharp
-using System.Net;
-using System.Net.Http;
+
 using System.Net.Mail;
 using SendGrid;
 
@@ -17,6 +12,7 @@ using SendGrid;
  * @Date: June 8 2016
  * version 0.0.1 - added SendGrid to the SendButton_Click event
  */
+
 namespace ASPPortfolio
 {
     public partial class Contact : Page

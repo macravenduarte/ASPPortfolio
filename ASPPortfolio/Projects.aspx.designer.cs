@@ -9,8 +9,6 @@
 
 namespace ASPPortfolio
 {
-
-
     public partial class Projects
     {
     }
