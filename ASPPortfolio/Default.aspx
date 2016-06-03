@@ -43,7 +43,7 @@
             <div class="col-md-1">
                 <h4 id="img-title3">MongoDB</h4>
                 <img class="Content/Image-responsive"
-                     src="images/mongodb-logo.png"
+                     src="Content/Images/mongodb-logo.png"
                      title="MongoDB"
                      width="300" length="300"/>
             </div>
