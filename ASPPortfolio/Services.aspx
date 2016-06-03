@@ -18,35 +18,35 @@
 
             <div class="col-md-2">
                 <img class="image-responsive"
-                     src="/images/Java-logo.png"
+                     src="Content/Images/Java-logo.png"
                      title="Java Logo"
                      width="100px"
                      length="100px"/>
             </div>
             <div class="col-md-2">
                 <img class="image-responsive"
-                     src="/images/php-logo.png"
+                     src="Content/Images/php-logo.png"
                      title="Php Logo"
                      width="100px"
                      length="100px"/>
             </div>
             <div class="col-md-2">
                 <img class="image-responsive"
-                     src="/images/windows-logo.png"
+                     src="Content/Images/windows-logo.png"
                      title="Windows Logo"
                      width="100px"
                      length="100px"/>
             </div>
             <div class="col-md-2">
                 <img class="image-responsive"
-                     src="/images/csharp.png"
+                     src="Content/Images/csharp.png"
                      title="C Sharp Logo"
                      width="100px"
                      length="100px" />
             </div>
             <div class="col-md-2">
                 <img class="image-responsive"
-                     src="/images/mysql-logo.png"
+                     src="Content/Images/mysql-logo.png"
                      title="MySql Logo"
                      width="200px"
                      length="200px"/>

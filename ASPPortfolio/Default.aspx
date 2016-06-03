@@ -25,7 +25,7 @@
             <div class="col-md-2">
                 <h4 id="img-title1">Twitter Bootstrap</h4>
                 <img class="image-responsive"
-                     src="images/bootstrap_html_css.png"
+                     src="Content/Images/bootstrap_html_css.png"
                      title="Twitter Bootstrap, HTML5, CSS3"
                      width="300" length="300"/>
             </div>
@@ -35,14 +35,14 @@
             <div class="col-md-2">
                 <h4 id="img-title2">Node.js</h4>
                 <img class="image-responsive"
-                     src="images/nodejs-logo.png"
+                     src="Content/Images/nodejs-logo.png"
                      title="Node.js"
                      width="150" length="150"/>
             </div>
             <!--MongoDB-->
             <div class="col-md-1">
                 <h4 id="img-title3">MongoDB</h4>
-                <img class="image-responsive"
+                <img class="Content/Image-responsive"
                      src="images/mongodb-logo.png"
                      title="MongoDB"
                      width="300" length="300"/>
